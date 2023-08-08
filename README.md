@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+<h1>Recipe Book</h1>
+<h5>This project was created using https://spoonacular.com/food-api/ to get the food recipe details.</h5>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2>Live Demo : - https://recipe-book-abhishekdangi.netlify.app/</h2>
 
-## Available Scripts
+<br/><br/>
 
-In the project directory, you can run:
+<h3>Basic Functionality</h3>
+<h4>Food list home page</h4>
+<h4>Search about any food</h4>
+<h4>Filter functionality</h4>
+<h4>Details about the dish</h4>
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<br/><br/>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<h3>Links:-</h3>
+<h4>Home page: https://recipe-book-abhishekdangi.netlify.app/</h4>
+<h4>Filter Indian food: https://recipe-book-abhishekdangi.netlify.app/cuisine/Indian</h4>
+<h4>Search Result: https://recipe-book-abhishekdangi.netlify.app/searchresult/milk</h4>
+<h4>Food details page: https://recipe-book-abhishekdangi.netlify.app/recipe/639794</h4>
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<br/><br/>
 
-### `npm run build`
+<h3>How to run the project in local server
+</h3>
+<h4>Download the Zip file of Recipe app</h4>
+<h4>Extract the file</h4>
+<h4>Open the terminal</h4>
+<h4>npm install</h4>
+<h4>Enter your apiKey in .env file</h4>
+<h4>npm start</h4>
+<br/><br/>
+<h3>Screenshots</h3>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<h4>Home page</h4>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![home1](https://github.com/abhishekdangi006/recipe-book/assets/76874880/1664b06d-13e5-4957-84b3-ae0f5378b9e7)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![home2](https://github.com/abhishekdangi006/recipe-book/assets/76874880/dd197094-4c36-4388-a53a-2de92c0785e8)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<h4>Filter page</h4>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![filter](https://github.com/abhishekdangi006/recipe-book/assets/76874880/64327858-be1d-49d9-b210-dc7692d0f767)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<h4>Search result</h4>
 
-## Learn More
+![search result](https://github.com/abhishekdangi006/recipe-book/assets/76874880/a3a36ad5-c547-4128-a4f2-4d1f36013a6c)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<h4>Details page</h4>
 
-### Code Splitting
+![details](https://github.com/abhishekdangi006/recipe-book/assets/76874880/68a41f96-3b7d-4c52-a1a7-7d633b05abad)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
