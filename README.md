@@ -5,7 +5,7 @@
 
 <br/><br/>
 
-<h3>🔴 Basic Functionality</h3>
+<h3>Basic Functionality</h3>
 <h4>🔴 Food list home page</h4>
 <h4>🔴 slide the results</h4>
 <h4>🔴 Search about any food</h4>
@@ -52,7 +52,7 @@
 ![search result](https://github.com/abhishekdangi006/recipe-book/assets/76874880/a3a36ad5-c547-4128-a4f2-4d1f36013a6c)
 
 
-<h4>⚫ Details page</h4>
+<h4>🔴 Details page</h4>
 
 ![details](https://github.com/abhishekdangi006/recipe-book/assets/76874880/68a41f96-3b7d-4c52-a1a7-7d633b05abad)
 
